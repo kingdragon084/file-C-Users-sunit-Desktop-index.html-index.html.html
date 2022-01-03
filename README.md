@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html>
 <head>
 <title>Gardening a Agriculture</title>
@@ -23,7 +21,7 @@
       </button>
       </a>
 
-	<!-- content-section-starts -->
+	
     <div class="content">
    	<div class="container">
 	<div class="gallery-head" id="portfolio">
